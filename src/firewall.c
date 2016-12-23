@@ -25,6 +25,7 @@
 
 #include <errno.h>
 
+#define _LINUX_IF_H
 #include <xtables.h>
 #include <linux/netfilter_ipv4/ip_tables.h>
 

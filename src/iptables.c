@@ -30,6 +30,7 @@
 #include <unistd.h>
 #include <sys/errno.h>
 #include <sys/socket.h>
+#define _LINUX_IF_H
 #include <xtables.h>
 #include <inttypes.h>
 
