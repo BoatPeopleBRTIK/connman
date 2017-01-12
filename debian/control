@@ -16,7 +16,7 @@ Build-Depends: debhelper (>= 9),
                iptables-dev,
                wpasupplicant,
                libbluetooth-dev,
-               ppp-dev,
+               ppp-dev:all,
                dh-systemd,
                dh-autoreconf
 Standards-Version: 3.9.8
